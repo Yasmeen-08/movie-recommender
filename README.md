@@ -18,7 +18,7 @@ TMDB 5000 Movie Dataset (Kaggle)
     python build_tags.py
     python app.py
 
-Then open http://127.0.0.1:5000
+Then open [http://127.0.0.1:5000](https://movie-recommender-ser4mkkxjtezyk9jp8zo6a.streamlit.app/)
 
 ## Author
 Yasmeen Khan
